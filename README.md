@@ -1,6 +1,15 @@
 # Python
 
-## venv
+
+## Setup
+
+VScode:
+- autopep8 (formatting)
+
+Python 3.10.6
+
+
+### venv
 
 ```bash
 # Create venv
@@ -17,3 +26,9 @@ pip install docker paramiko
 https://www.udemy.com/course/100-days-of-code/
 
 Day 1: Just some basic knowledge
+
+## Infos
+- https://docs.python.org/3/library/functions.html
+
+
+Notes are in Obsidian!
