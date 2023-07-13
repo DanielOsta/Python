@@ -3,3 +3,4 @@ venv
 testing/
 work/
 **/.env
+.idea
