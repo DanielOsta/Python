@@ -6,6 +6,10 @@
 VScode:
 - autopep8 (formatting)
 
+PyCharm:
+- Community edition
+- Keyboard shortcuts https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html
+
 Python 3.10.6
 
 
