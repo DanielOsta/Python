@@ -35,4 +35,30 @@ Day 1: Just some basic knowledge
 - https://docs.python.org/3/library/functions.html
 
 
+args are positional arguments
+```python
+def add(*args):
+    print(args[0])
+    sum = 0
+    for n in args:
+        sum += n
+    return sum
+```
+
+kwargs are key word arguments
+```python
+def calculate(n, **kwargs):
+    print(kwargs)
+    for key, value in kwargs.items():
+        print(key)
+        print(value)
+    n += kwargs["add"]
+    n += kwargs["multiply"]
+    print(n)
+```
+
+Download: https://replit.com/@appbrewery/day-27-end !
+Tuples are immutable
+Lists are mutable
+
 Notes are in Obsidian!
